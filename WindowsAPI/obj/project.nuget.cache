@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "82OpL0ilLID3r8bfEcM1k1cF/4lhmjiYmwhIZm2z9bjgygMz1XUC9Cyr5kGc3E8DWB0EcBB8MF57K5F+JUqZ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\DataBaseApp\\WindowsAPI\\WindowsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
